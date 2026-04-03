@@ -1,0 +1,19 @@
+{
+  "name": "Lamiwood — Premium Interior Surfaces",
+  "short_name": "Lamiwood",
+  "description": "Premium interior surfaces crafted for extraordinary spaces. Flooring, wall panels, decking, and more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#B8860B",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "lifestyle"]
+}
